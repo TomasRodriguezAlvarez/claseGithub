@@ -9,4 +9,4 @@ Darienn suelta las moneas
 
                Benja
 
-$$hola-{comoestas}
+$$hola_{comoestas}
